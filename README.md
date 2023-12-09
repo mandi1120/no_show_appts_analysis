@@ -1,4 +1,4 @@
-# Udacity Data Analyst Nanodegree <br> No-Show Appointments Analysis
+# Udacity Data Analyst Nanodegree <br>No-Show Appointments Analysis
 ### By: Amanda Hanway, 12/9/2023 
 
 ## Introduction
@@ -27,9 +27,9 @@ Columns:
 
 ## Questions for Analysis
 
-Q1: Do no-show appointments occur more often during certain months than others?
-Q2: Does the text message reminder influence if the patient attends the appointment?
-Q3: What percentage of total appointments were no-show appointments?
+- Q1: Do no-show appointments occur more often during certain months than others?  
+- Q2: Does the text message reminder influence if the patient attends the appointment?  
+- Q3: What percentage of total appointments were no-show appointments?  
 
 ## Data Wrangling
 
@@ -42,7 +42,7 @@ Issues Identified:
 3. Show the full PatientId instead of scientific notation  
 4. Change the column name of "Handcap" to "Disabled"  
 5. Change the column name of "Hipertension" to "Hypertension"  
-6. Change SMS_cleaned to yes or no values  
+6. Change SMS_received to yes or no values  
 
 ## Exploratory Data Analysis
 
