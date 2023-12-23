@@ -33,7 +33,7 @@ Columns:
 
 ## Data Wrangling
 
-The following inforamtion was found upon reviewing the dataset:  
+The following information was found upon reviewing the dataset:  
 - 14 columns and 110,527 rows are present in the dataset. 
 - No null values were identified.  
   
@@ -88,11 +88,11 @@ Analysis:
 - The receipt of a SMS text message did not appear to make a positive impact on the attendance.
   - The no-show rate for patients who received a text was higher than when patients did not receive a text.
 
-| SMS received	| Attended	| No-show	| Total	  | No-show Rate |
-| ------------- | --------- | ------- | -----   | ------------ |
-| No            |	62,510	  | 12,535  |	75,045  |	17%          |
-| Yes	          | 25,698	  | 9,784   |	35,482  | 28%          |
-| Total	        | 88,208  	| 22,319	| 110,527	| 20%          |
+| SMS received	| Attended	| No-showed	| Total	  | No-show Rate |
+| ------------- | --------- | -------   | -----   | ------------ |
+| No            |	62,510	  | 12,535    |	75,045  |	17%          |
+| Yes	          | 25,698	  | 9,784     |	35,482  | 28%          |
+| Total	        | 88,208  	| 22,319	  | 110,527	| 20%          |
 
 ## Limitation  
 
